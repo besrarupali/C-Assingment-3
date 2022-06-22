@@ -1,0 +1,37 @@
+
+1. What are the primitive data types in C Language?
+answer. int, char, float, double, void.
+
+2. What kind of statements can be written outside the function body?
+answer. Declaration statments.
+
+3. What is the size of float type variable?
+answer. 1 bytes.
+
+4. What is the value of an uninitialised variable?
+answer. Garbage value.
+
+5. What is the difference between float and double?
+answer. in float, we can store maximum 1bytes and in double, we can store 8bytes for same value.
+
+6. What is the full form of ASCII?
+answer. American standard Code of Information Interchange.
+
+7. What is the difference between a keyword and a function?
+answer. Keywords:
+        (a)Keywords are those words whose meaning is already defined by Compiler
+        (b)Cannot be used as Variable Name
+        (c)There are 44 Keywords in C
+        (d)Keywords are also called as Reserved words .
+       Functio:
+         Functions are basic building blocks in a program. All C programs are written using functions to improve re-usability,                   understandability and to keep track on them.
+ 
+8. Explore the use of type modifiers in C language.
+answer. Type Modifiers are special keywords defined in the programming language which are used to modify the default properties of the         Built-in Data types.
+        Type Modifier keywords are used as prefixes to the Built-in Data types in the declaration or initialization statements. They are         used to modify the memory allocation of the variable. Type Modifiers also modify the range of the Data types.
+
+9. Can you assign a character constant in an int variable?
+answer. yes.
+
+10. State the following statement as true or false -"Every block of code is a function".
+answer. False.
